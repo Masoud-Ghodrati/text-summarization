@@ -22,6 +22,7 @@ Dataset: The CNN news highlights dataset, which contains news articles and assoc
 The CNN dataset was downloaded from New York University, in the version made available by Kyunghyun Cho, which can be found [here](https://cs.nyu.edu/~kcho/DMQA/)
 
 A description of this project development can be found on my portfolio [website](http://www.lopasso.tech/text-summarization/)
+A demo can be find [here](https://summarizer-lopasso.herokuapp.com/)
 
 ## 2. Data cleaning
 
